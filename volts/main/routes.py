@@ -1,7 +1,7 @@
 from flask import render_template, request, Blueprint, abort
 import logging
 from jinja2 import TemplateNotFound
-from main.forms import Contact
+from volts.main.forms import Contact
 
 main = Blueprint('main', __name__)
 
