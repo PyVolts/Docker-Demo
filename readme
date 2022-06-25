@@ -1,6 +1,10 @@
 
 
-To run this on your machine follow these steps:
+This project includes a basic Flask blog website for demonstration purposes on how to use Docker.
+
+
+
+To run this on your machine follow these steps (without the dockerfile):
 
 1.) Install python https://www.python.org/downloads/
 2.) Clone the repo
